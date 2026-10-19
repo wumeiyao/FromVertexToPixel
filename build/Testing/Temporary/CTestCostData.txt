@@ -1,0 +1,23 @@
+chapter00_smoke 2 1.72551
+chapter01_smoke 3 0.00246925
+chapter02_smoke 3 0.000653389
+chapter03_smoke 3 0.00194768
+chapter04_smoke 2 1.64834
+chapter05_smoke 2 2.02829
+chapter06_smoke 2 1.86069
+chapter20_smoke 2 1.82831
+chapter07_smoke 2 1.53816
+chapter08_smoke 2 1.55879
+chapter09_smoke 2 1.59305
+chapter10_smoke 2 1.59244
+chapter11_smoke 2 1.66236
+chapter12_smoke 2 1.6513
+chapter13_smoke 2 1.61922
+chapter14_smoke 2 1.65539
+chapter15_smoke 2 1.58616
+chapter16_smoke 2 1.83734
+chapter17_smoke 2 1.85618
+chapter18_smoke 2 1.83531
+chapter19_smoke 2 2.76455
+chapter21_smoke 2 1.54217
+---

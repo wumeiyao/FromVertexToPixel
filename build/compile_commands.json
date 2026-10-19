@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -g -std=c++17 -arch arm64 -o CMakeFiles/hello.dir/src/main.cpp.o -c /Users/wumeiyao/CodeA/src/main.cpp",
+  "file": "/Users/wumeiyao/CodeA/src/main.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/CMakeFiles/hello.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter00.dir/00_setup/chapter00.cpp.o -c /Users/wumeiyao/CodeA/exercises/00_setup/chapter00.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/00_setup/chapter00.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter00.dir/00_setup/chapter00.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter01.dir/01_math/chapter01.cpp.o -c /Users/wumeiyao/CodeA/exercises/01_math/chapter01.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/01_math/chapter01.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter01.dir/01_math/chapter01.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter02.dir/01_math/chapter02.cpp.o -c /Users/wumeiyao/CodeA/exercises/01_math/chapter02.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/01_math/chapter02.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter02.dir/01_math/chapter02.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter03.dir/01_math/chapter03.cpp.o -c /Users/wumeiyao/CodeA/exercises/01_math/chapter03.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/01_math/chapter03.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter03.dir/01_math/chapter03.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter04.dir/02_cpu_rasterizer/chapter04.cpp.o -c /Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter04.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter04.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter04.dir/02_cpu_rasterizer/chapter04.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter05.dir/02_cpu_rasterizer/chapter05.cpp.o -c /Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter05.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter05.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter05.dir/02_cpu_rasterizer/chapter05.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter06.dir/02_cpu_rasterizer/chapter06.cpp.o -c /Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter06.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/02_cpu_rasterizer/chapter06.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter06.dir/02_cpu_rasterizer/chapter06.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter07.dir/03_opengl_basics/chapter07.cpp.o -c /Users/wumeiyao/CodeA/exercises/03_opengl_basics/chapter07.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/03_opengl_basics/chapter07.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter07.dir/03_opengl_basics/chapter07.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter08.dir/03_opengl_basics/chapter08.cpp.o -c /Users/wumeiyao/CodeA/exercises/03_opengl_basics/chapter08.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/03_opengl_basics/chapter08.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter08.dir/03_opengl_basics/chapter08.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter09.dir/04_scene_camera_assets/chapter09.cpp.o -c /Users/wumeiyao/CodeA/exercises/04_scene_camera_assets/chapter09.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/04_scene_camera_assets/chapter09.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter09.dir/04_scene_camera_assets/chapter09.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter10.dir/04_scene_camera_assets/chapter10.cpp.o -c /Users/wumeiyao/CodeA/exercises/04_scene_camera_assets/chapter10.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/04_scene_camera_assets/chapter10.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter10.dir/04_scene_camera_assets/chapter10.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter11.dir/05_lighting_shadows/chapter11.cpp.o -c /Users/wumeiyao/CodeA/exercises/05_lighting_shadows/chapter11.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/05_lighting_shadows/chapter11.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter11.dir/05_lighting_shadows/chapter11.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter12.dir/05_lighting_shadows/chapter12.cpp.o -c /Users/wumeiyao/CodeA/exercises/05_lighting_shadows/chapter12.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/05_lighting_shadows/chapter12.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter12.dir/05_lighting_shadows/chapter12.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter13.dir/06_frame_renderer/chapter13.cpp.o -c /Users/wumeiyao/CodeA/exercises/06_frame_renderer/chapter13.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/06_frame_renderer/chapter13.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter13.dir/06_frame_renderer/chapter13.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter14.dir/06_frame_renderer/chapter14.cpp.o -c /Users/wumeiyao/CodeA/exercises/06_frame_renderer/chapter14.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/06_frame_renderer/chapter14.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter14.dir/06_frame_renderer/chapter14.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter15.dir/07_postprocess_ui/chapter15.cpp.o -c /Users/wumeiyao/CodeA/exercises/07_postprocess_ui/chapter15.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/07_postprocess_ui/chapter15.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter15.dir/07_postprocess_ui/chapter15.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter16.dir/07_postprocess_ui/chapter16.cpp.o -c /Users/wumeiyao/CodeA/exercises/07_postprocess_ui/chapter16.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/07_postprocess_ui/chapter16.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter16.dir/07_postprocess_ui/chapter16.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter17.dir/08_gameplay/chapter17.cpp.o -c /Users/wumeiyao/CodeA/exercises/08_gameplay/chapter17.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/08_gameplay/chapter17.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter17.dir/08_gameplay/chapter17.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter18.dir/08_gameplay/chapter18.cpp.o -c /Users/wumeiyao/CodeA/exercises/08_gameplay/chapter18.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/08_gameplay/chapter18.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter18.dir/08_gameplay/chapter18.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter19.dir/09_profiling_vulkan/chapter19.cpp.o -c /Users/wumeiyao/CodeA/exercises/09_profiling_vulkan/chapter19.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/09_profiling_vulkan/chapter19.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter19.dir/09_profiling_vulkan/chapter19.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -I/Users/wumeiyao/CodeA/exercises/common -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter20.dir/09_profiling_vulkan/chapter20.cpp.o -c /Users/wumeiyao/CodeA/exercises/09_profiling_vulkan/chapter20.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/09_profiling_vulkan/chapter20.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter20.dir/09_profiling_vulkan/chapter20.cpp.o"
+},
+{
+  "directory": "/Users/wumeiyao/CodeA/build",
+  "command": "/usr/bin/clang++ -DCODEA_EXERCISE_DIR=\\\"/Users/wumeiyao/CodeA/exercises\\\" -DCODEA_OUTPUT_DIR=\\\"/Users/wumeiyao/CodeA/build/exercise_output\\\" -DGL_SILENCE_DEPRECATION -I/Users/wumeiyao/CodeA/exercises/common -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o exercises/CMakeFiles/chapter21.dir/10_capstone/chapter21.cpp.o -c /Users/wumeiyao/CodeA/exercises/10_capstone/chapter21.cpp",
+  "file": "/Users/wumeiyao/CodeA/exercises/10_capstone/chapter21.cpp",
+  "output": "/Users/wumeiyao/CodeA/build/exercises/CMakeFiles/chapter21.dir/10_capstone/chapter21.cpp.o"
+}
+]

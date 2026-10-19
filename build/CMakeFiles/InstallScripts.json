@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/wumeiyao/CodeA/build/cmake_install.cmake",
+		"/Users/wumeiyao/CodeA/build/exercises/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

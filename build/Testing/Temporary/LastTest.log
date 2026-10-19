@@ -1,0 +1,85 @@
+Start testing: Sep 01 15:34 CST
+----------------------------------------------------------
+2/22 Testing: chapter01_smoke
+2/22 Test: chapter01_smoke
+Command: "/Users/wumeiyao/CodeA/build/exercises/chapter01"
+Directory: /Users/wumeiyao/CodeA/build/exercises
+"chapter01_smoke" start time: Sep 01 15:34 CST
+Output:
+----------------------------------------------------------
+Local          = (1.000, 1.000, 0.000, 1.000)
+World          = (3.000, 1.000, 0.000, 1.000)
+View           = (3.000, 1.000, -5.000, 1.000)
+Clip           = (2.923, 1.732, 4.810, 5.000)
+NDC            = (0.585, 0.346, 0.962)
+Screen 1280x720 = (1014.123, 235.292)
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"chapter01_smoke" end time: Sep 01 15:34 CST
+"chapter01_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/22 Testing: chapter02_smoke
+3/22 Test: chapter02_smoke
+Command: "/Users/wumeiyao/CodeA/build/exercises/chapter02"
+Directory: /Users/wumeiyao/CodeA/build/exercises
+"chapter02_smoke" start time: Sep 01 15:34 CST
+Output:
+----------------------------------------------------------
+dot(right, up) = 0.000  (zero means perpendicular)
+cross(right, up) = (0.000, 0.000, 1.000)
+normalize(3,4,0) = (0.600, 0.800, 0.000)
+dot(normalized diagonal, up) = 0.800  (projection length on up)
+Scale (rows shown left to right):
+  [ 2.000 0.000 0.000 0.000 ]
+  [ 0.000 3.000 0.000 0.000 ]
+  [ 0.000 0.000 1.000 0.000 ]
+  [ 0.000 0.000 0.000 1.000 ]
+Rotation Z 90 degrees (rows shown left to right):
+  [ -0.000 -1.000 0.000 0.000 ]
+  [ 1.000 -0.000 0.000 0.000 ]
+  [ 0.000 0.000 1.000 0.000 ]
+  [ 0.000 0.000 0.000 1.000 ]
+Translation (rows shown left to right):
+  [ 1.000 0.000 0.000 5.000 ]
+  [ 0.000 1.000 0.000 2.000 ]
+  [ 0.000 0.000 1.000 -1.000 ]
+  [ 0.000 0.000 0.000 1.000 ]
+Model = Translation * Rotation * Scale (rows shown left to right):
+  [ -0.000 -3.000 0.000 5.000 ]
+  [ 2.000 -0.000 0.000 2.000 ]
+  [ 0.000 0.000 1.000 -1.000 ]
+  [ 0.000 0.000 0.000 1.000 ]
+Model * point (w=1) = (-1.000, 4.000, 2.000, 1.000)
+Model * direction (w=0) = (-6.000, 2.000, 3.000, 0.000)
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"chapter02_smoke" end time: Sep 01 15:34 CST
+"chapter02_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/22 Testing: chapter03_smoke
+4/22 Test: chapter03_smoke
+Command: "/Users/wumeiyao/CodeA/build/exercises/chapter03"
+Directory: /Users/wumeiyao/CodeA/build/exercises
+"chapter03_smoke" start time: Sep 01 15:34 CST
+Output:
+----------------------------------------------------------
+Local -> World -> View -> Clip -> NDC
+World: (-0.000, 0.000, -3.000)
+View : (-0.000, 0.141, -8.061)
+Clip : (-0.000, 0.245, 7.877, 8.061)
+NDC  : (-0.000, 0.030, 0.977)
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"chapter03_smoke" end time: Sep 01 15:34 CST
+"chapter03_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 01 15:34 CST

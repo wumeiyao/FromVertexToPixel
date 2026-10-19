@@ -1,0 +1,76 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"/opt/homebrew/share/cmake/Modules/FindOpenGL.cmake",
+			"exercises/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 867,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 875,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "OpenGL::GLU::@9af784ac03abee9d5a71",
+	"imported" : true,
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "OpenGL::GL::@9af784ac03abee9d5a71"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "OpenGL::GL::@9af784ac03abee9d5a71"
+		}
+	],
+	"local" : true,
+	"name" : "OpenGL::GLU",
+	"paths" : 
+	{
+		"build" : "exercises",
+		"source" : "exercises"
+	},
+	"sources" : [],
+	"type" : "UNKNOWN_LIBRARY"
+}
